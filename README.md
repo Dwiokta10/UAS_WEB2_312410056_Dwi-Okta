@@ -22,9 +22,6 @@ Sistem informasi manajemen inventaris ini dibangun dengan arsitektur *Decoupled*
 2. **Frontend:** Buka direktori `frontend-spa` dan jalankan `index.html` menggunakan Live Server.
 3. Akses aplikasi melalui browser dan login sebagai Administrator.
 
-## 🔗 Tautan Penting
-- **Demo Aplikasi:** [Link Video Presentasi YouTube]
-
 ## 📸 Dokumentasi Visual
 
 ### 1. Skema Relasi Database

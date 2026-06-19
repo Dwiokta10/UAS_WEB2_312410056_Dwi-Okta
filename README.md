@@ -18,7 +18,7 @@ Sistem informasi manajemen inventaris ini dibangun dengan arsitektur *Decoupled*
 - **Database:** MySQL
 
 ## 🚀 Panduan Instalasi
-1. **Backend:** Buka terminal pada direktori `backend-api`, sesuaikan koneksi database di `.env`, lalu jalankan `php spark serve`.
+1. **Backend:** Buka terminal pada direktori `backend-api`, sesuaikan koneksi database di `.env`, lalu jalankan `C:\xampp\php\php.exe spark serve`.
 2. **Frontend:** Buka direktori `frontend-spa` dan jalankan `index.html` menggunakan Live Server.
 3. Akses aplikasi melalui browser dan login sebagai Administrator.
 

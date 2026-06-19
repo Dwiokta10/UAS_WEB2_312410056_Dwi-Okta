@@ -6,7 +6,7 @@
 |     _Kelas_    |      TI.24.A1      |
 |  _Mata Kuliah_ | Pemrograman Web 2  |
 | _Dosen Pengampu_ | Bapak Agung Nugroho, S.Kom., M.Kom. |
-|  _Youtube_ | ............... |
+|  _DEMO APLIKASI_ | ............... |
 
 
 Sistem informasi manajemen inventaris ini dibangun dengan arsitektur *Decoupled* (terpisah) untuk mendigitalisasi pencatatan aset institusi pendidikan, meliputi pendataan barang, kategori, serta histori barang masuk dan keluar.

@@ -50,7 +50,7 @@ Mendukung digitalisasi administrasi kegiatan kepramukaan.
 ![Halaman Login](docs/login.png)
 
 ### 4. Halaman Dashboard Admin
-![Dashboard Admin](docs/dashboard.png)
+<img width="960" height="564" alt="Cuplikan layar 2026-06-22 064954" src="https://github.com/user-attachments/assets/347dc042-6c6e-4c79-8f0c-ffc7e9b7f9db" />
 
 ### 5. Visualisasi Tabel Data 
 ![Tabel Data](docs/tabel_data.png)

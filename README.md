@@ -62,6 +62,7 @@ Mendukung digitalisasi administrasi kegiatan kepramukaan.
 
 
 ### 6. Form Modal Interaktif (Tambah/Edit)
+<img width="960" height="600" alt="Cuplikan layar 2026-06-22 160436" src="https://github.com/user-attachments/assets/8525f214-6b4e-432a-877c-e915a724ed73" />
 
 
 Demikian proyek **SI PENA (Sistem Inventaris Peralatan Pramuka)** yang dikembangkan sebagai pemenuhan tugas Ujian Akhir Semester (UAS) Mata Kuliah Pemrograman Web 2 Tahun Akademik 2026.

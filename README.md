@@ -47,16 +47,22 @@ Mendukung digitalisasi administrasi kegiatan kepramukaan.
 ![Error 401 Postman](docs/error_401.png)
 
 ### 3. Halaman Login
-![Halaman Login](docs/login.png)
+<img width="960" height="564" alt="Cuplikan layar 2026-06-22 065009" src="https://github.com/user-attachments/assets/5b112103-47a2-47ad-8495-9ada096fb020" />
+
 
 ### 4. Halaman Dashboard Admin
 <img width="960" height="564" alt="Cuplikan layar 2026-06-22 064954" src="https://github.com/user-attachments/assets/347dc042-6c6e-4c79-8f0c-ffc7e9b7f9db" />
 
 ### 5. Visualisasi Tabel Data 
-![Tabel Data](docs/tabel_data.png)
+<img width="960" height="600" alt="Cuplikan layar 2026-06-22 160005" src="https://github.com/user-attachments/assets/102eedbf-7e97-49d0-b482-eb08c82fb01e" />
+
+<img width="960" height="600" alt="Cuplikan layar 2026-06-22 160046" src="https://github.com/user-attachments/assets/fd2139a1-13e3-4619-a005-a6a20dace3e8" />
+<img width="960" height="600" alt="Cuplikan layar 2026-06-22 160035" src="https://github.com/user-attachments/assets/ba4ca8e4-8636-4f5c-9786-6f11cc3caae0" />
+<img width="960" height="600" alt="Cuplikan layar 2026-06-22 160058" src="https://github.com/user-attachments/assets/246d80da-8401-4d65-9d79-97a6946b310f" />
+
 
 ### 6. Form Modal Interaktif (Tambah/Edit)
-![Form Modal](docs/form_modal.png)
+
 
 Demikian proyek **SI PENA (Sistem Inventaris Peralatan Pramuka)** yang dikembangkan sebagai pemenuhan tugas Ujian Akhir Semester (UAS) Mata Kuliah Pemrograman Web 2 Tahun Akademik 2026.
 

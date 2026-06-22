@@ -6,8 +6,13 @@
 |     _Kelas_    |      TI.24.A1      |
 |  _Mata Kuliah_ | Pemrograman Web 2  |
 | _Dosen Pengampu_ | Bapak Agung Nugroho, S.Kom., M.Kom. |
-|  _DEMO APLIKASI_ | ............... |
+|  _Link Youtube_ | https://youtu.be/dRdA3LH-X_8 |
 
+Deskripsi Proyek
+
+SI PENA (Sistem Inventaris Peralatan Pramuka) merupakan aplikasi berbasis web yang dirancang untuk membantu proses pengelolaan inventaris peralatan Pramuka secara digital. Sistem ini memudahkan administrator dalam melakukan pendataan perlengkapan Pramuka, pengelompokan kategori peralatan, pengelolaan stok, serta pencatatan histori barang masuk dan barang keluar secara terstruktur dan terdokumentasi.
+
+Aplikasi ini dikembangkan sebagai proyek Ujian Akhir Semester (UAS) Mata Kuliah Pemrograman Web 2 dengan menerapkan konsep Decoupled Architecture, yaitu pemisahan antara Backend API dan Frontend SPA. Dengan arsitektur ini, sistem menjadi lebih fleksibel, mudah dikembangkan, dan mampu memberikan performa yang lebih baik dalam pengelolaan data inventaris.
 
 Sistem informasi manajemen inventaris ini dibangun dengan arsitektur *Decoupled* (terpisah) untuk mendigitalisasi pencatatan aset institusi pendidikan, meliputi pendataan barang, kategori, serta histori barang masuk dan keluar.
 
